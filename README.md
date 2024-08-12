@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Java Script, Golang**
 
-- 👨‍💻 All of my projects are available at [luqman.cloud](luqman.cloud)
+- 👨‍💻 All of my projects are available at [luqman.cloud](https://www.luqman.cloud)
 
 - 💬 Ask me about **Google Cloud Platform**
 
