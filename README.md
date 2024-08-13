@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hengkerkucing&label=Profile%20views&color=0e75b6&style=flat" alt="hengkerkucing" /> </p>
 
-- 🔭 I’m currently working on **Looking for**
+- 🔭 I’m currently working on **PT. Mencari Cinta Sejati**
 
 - 🌱 I’m currently learning **MERN Stack, Java Script, Golang**
 
