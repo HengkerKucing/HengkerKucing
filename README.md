@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on **PT. Mencari Cinta Sejati** 
 
-- 🌱 I’m currently learning **MERN Stack, Java Script, Golang**
-
-- 💬 Ask me about **Google Cloud Platform**
-
-- 📫 How to reach me **luqmanaldp@gmail.com**
+- git -c credential.helper= push --set-upstream origin main 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
